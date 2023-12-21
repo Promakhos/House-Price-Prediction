@@ -59,7 +59,7 @@ print("MAE:",mean_absolute_percentage_error(y_test, pred_y_cb))
 r2_cb = r2_score(y_test,pred_y_cb)
 print("real r2:",r2_cb)
 
-print(X_train.info())
+
 
 
 
